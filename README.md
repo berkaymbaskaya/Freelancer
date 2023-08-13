@@ -3,10 +3,11 @@ Freelance iş arayan geliştiricilerin ilanları listeleyebildiği ve filtreleye
 
 
 # Görünüm
-Responsive bir tasarım kullanılmış olup henüz mobil uyumlu değildir.
-
+Responsive bir tasarım kullanılmış olup tam mobil  uyumludur.
 ![1](https://github.com/berkaymbaskaya/Freelancer/assets/110475301/c29b7eb8-b192-482f-99de-f5dbe4322ca0)
 ![2](https://github.com/berkaymbaskaya/Freelancer/assets/110475301/d941a911-428e-4f04-a884-9ca7e45b882b)
+![mobil1](https://github.com/berkaymbaskaya/Freelancer/assets/110475301/3249a573-77e4-4ba1-b330-ac454e14f900)
+![mobil2](https://github.com/berkaymbaskaya/Freelancer/assets/110475301/9ae630e7-453c-47a1-8a0c-fa5121eb67a3)
 
 
 # freelancer
