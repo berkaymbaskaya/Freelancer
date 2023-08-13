@@ -1,0 +1,23 @@
+<template lang="">
+<footer class="bg-dark text-center text-white">
+  <!-- Grid container -->
+  <div class="container p-4 pb-0">
+
+  </div>
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2020 Copyright:
+    <a class="text-white" href="https://metodyazilim.com/">Metod Yazılım</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+</template>
+<script>
+export default {
+    
+}
+</script>
+<style lang="">
+    
+</style>
